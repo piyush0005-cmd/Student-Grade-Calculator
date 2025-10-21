@@ -34,3 +34,28 @@ A beginner-friendly **Java Swing application** that calculates total marks, aver
 4. Compile:
    ```bash
    javac StudentGradeCalculator.java
+   ```
+5. Run:
+   ```bash
+   java StudentGradeCalculator
+   ```
+
+---
+
+## 📷 Screenshot
+*(Optional: Add a screenshot of your running GUI here)*
+
+```markdown
+![App Screenshot](screenshot.png)
+```
+
+---
+
+## 💡 Author
+Created by **Piyush Bhadra**  
+GitHub: [Your GitHub Username](https://github.com/YourGitHubUsername)
+
+---
+
+## 🏷️ License
+This project is open-source and free to use under the MIT License.
